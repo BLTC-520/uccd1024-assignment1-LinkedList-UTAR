@@ -1,0 +1,228 @@
+
+STUDENT 1
+
+Name:  Audrey Chan
+Id: 1310983
+Course: IA
+Phone No: 521-3879
+Total Fine: RM0.50
+
+BOOK LIST: 
+
+Book 1
+
+Title: Advanced topics in C: Core Concepts in Data Structures
+Author: Noel Kalicharan	
+Publisher: Apress
+Year Published: 2013
+ISBN: 2361589071
+Call Number: QA76.73.C15K35
+Borrow Date: 28/2/2020
+Due Date: 28/3/2020
+Fine: RM0.50
+
+Book 2
+
+Title: Data Structures and Other Objects Using C++
+Author: Micheal Main	Walter Savitch	
+Publisher: Prentice Hall
+Year Published: 2010
+ISBN: 0132129485
+Call Number: QA76.73.C153N868
+Borrow Date: 20/3/2020
+Due Date: 20/4/2020
+Fine: RM0.00
+
+*****************************************************************************
+
+STUDENT 2
+
+Name:  Ben Affleck
+Id: 1201237
+Course: IA
+Phone No: 432-4579
+Total Fine: RM0.00
+
+BOOK LIST: 
+
+Book 1
+
+Title: Starting Out with Java:From Control Structures Through Data Structures
+Author: Tony Gaddis	Godfrey Muganda	
+Publisher: Addison-Wesley
+Year Published: 2011
+ISBN: 0321545869
+Call Number: QA76.73.C153S26
+Borrow Date: 30/2/2020
+Due Date: 30/3/2020
+Fine: RM0.00
+
+Book 2
+
+Title: Data Structures and Other Objects Using C++
+Author: Micheal Main	Walter Savitch	
+Publisher: Prentice Hall
+Year Published: 2010
+ISBN: 0132129485
+Call Number: QA76.73.C153N868
+Borrow Date: 29/2/2020
+Due Date: 29/3/2020
+Fine: RM0.00
+
+*****************************************************************************
+
+STUDENT 3
+
+Name:  Ben Ma
+Id: 1603679
+Course: IB
+Phone No: 693-2367
+Total Fine: RM6.00
+
+BOOK LIST: 
+
+Book 1
+
+Title: Starting Out with Java:From Control Structures Through Data Structures
+Author: Tony Gaddis	Godfrey Muganda	
+Publisher: Addison-Wesley
+Year Published: 2011
+ISBN: 0321545869
+Call Number: QA76.73.C153S26
+Borrow Date: 17/2/2020
+Due Date: 17/3/2020
+Fine: RM6.00
+
+Book 2
+
+Title: Advanced topics in C: Core Concepts in Data Structures
+Author: Noel Kalicharan	
+Publisher: Apress
+Year Published: 2013
+ISBN: 2361589071
+Call Number: QA76.73.C15K35
+Borrow Date: 26/3/2020
+Due Date: 26/4/2020
+Fine: RM0.00
+
+Book 3
+
+Title: Data Structures and Other Objects Using C++
+Author: Micheal Main	Walter Savitch	
+Publisher: Prentice Hall
+Year Published: 2010
+ISBN: 0132129485
+Call Number: QA76.73.C153N868
+Borrow Date: 29/2/2020
+Due Date: 29/3/2020
+Fine: RM0.00
+
+*****************************************************************************
+
+STUDENT 4
+
+Name:  Ken Wong
+Id: 1502378
+Course: CS
+Phone No: 892-3765
+Total Fine: RM10.00
+
+BOOK LIST: 
+
+Book 1
+
+Title: Advanced topics in C: Core Concepts in Data Structures
+Author: Noel Kalicharan	
+Publisher: Apress
+Year Published: 2013
+ISBN: 2361589071
+Call Number: QA76.73.C15K35
+Borrow Date: 12/3/2020
+Due Date: 12/4/2020
+Fine: RM0.00
+
+Book 2
+
+Title: Object-Oriented Data Structures Using Java
+Author: Nell Dale	Daniel Joyce	Chip Weems	
+Publisher: Jones & Bartlett Learning
+Year Published: 2011
+ISBN: 1449613543
+Call Number: QA76.58.M532
+Borrow Date: 9/2/2020
+Due Date: 9/3/2020
+Fine: RM10.00
+
+*****************************************************************************
+
+STUDENT 5
+
+Name:  Matt Damon
+Id: 1200233
+Course: CS
+Phone No: 790-3233
+Total Fine: RM27.50
+
+BOOK LIST: 
+
+Book 1
+
+Title: Advanced topics in C: Core Concepts in Data Structures
+Author: Noel Kalicharan	
+Publisher: Apress
+Year Published: 2013
+ISBN: 2361589071
+Call Number: QA76.73.C15K35
+Borrow Date: 12/2/2020
+Due Date: 12/3/2020
+Fine: RM8.50
+
+Book 2
+
+Title: Object-Oriented Data Structures Using Java
+Author: Nell Dale	Daniel Joyce	Chip Weems	
+Publisher: Jones & Bartlett Learning
+Year Published: 2011
+ISBN: 1449613543
+Call Number: QA76.58.M532
+Borrow Date: 20/1/2020
+Due Date: 20/2/2020
+Fine: RM19.00
+
+Book 3
+
+Title: Data Structures and Other Objects Using C++
+Author: Micheal Main	Walter Savitch	
+Publisher: Prentice Hall
+Year Published: 2010
+ISBN: 0132129485
+Call Number: QA76.73.C153N868
+Borrow Date: 13/3/2020
+Due Date: 13/4/2020
+Fine: RM0.00
+
+*****************************************************************************
+
+STUDENT 6
+
+Name:  Salma Hayek
+Id: 1300899
+Course: IB
+Phone No: 790-0000
+Total Fine: RM1.00
+
+BOOK LIST: 
+
+Book 1
+
+Title: Data Structures and Other Objects Using C++
+Author: Micheal Main	Walter Savitch	
+Publisher: Prentice Hall
+Year Published: 2010
+ISBN: 0132129485
+Call Number: QA76.73.C153N868
+Borrow Date: 27/2/2020
+Due Date: 27/3/2020
+Fine: RM1.00
+
+*****************************************************************************
