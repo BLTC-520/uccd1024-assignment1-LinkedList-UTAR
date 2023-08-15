@@ -1,15 +1,12 @@
-# data-struct-uccd1024-assignment1-LinkedList-UTAR
-
 Helping juniors in UCCD1024!
+Presentation Tips
+Just Run Your Code: When presenting your code to the instructors, simply run your code and showcase its functionality. Remember, they may not be overly concerned about the intricate details of your code.
 
-Presentation Tips 
+Emphasize Test Cases: One crucial aspect the instructors care about is your test cases. Make sure to include your test files when compiling your code to demonstrate its robustness and accuracy.
 
-1. Just run your code and show to the lectures cuz they don't even fucking care about your code...
-2. They care about test cases! (remember to include your test files while compile to show) 
-3. Don't explain your code line by line. (Important!) 
+Avoid Line-by-Line Explanation: Rather than explaining your code line by line, focus on giving an overview of its structure and key components. Highlight the overall design and how it meets the requirements.
 
-Support ME if you found helpful!
+If you found this information helpful, consider supporting me!
 
-ETH: 0x3e448a305295efe0C974B2Ee109448660EfbDA5A
-  Solana: BXHbNm3obMzyc96JfgRMfqLHqytFXA4g4Qu8SncyDyQ
-
+Ethereum (ETH): 0x3e448a305295efe0C974B2Ee109448660EfbDA5A
+Solana (SOL): BXHbNm3obMzyc96JfgRMfqLHqytFXA4g4Qu8SncyDyQ
