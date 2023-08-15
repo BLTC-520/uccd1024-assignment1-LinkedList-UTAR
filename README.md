@@ -1,5 +1,5 @@
-Helping juniors in UCCD1024!
-Presentation Tips
+#Helping juniors in UCCD1024!
+##Presentation Tips
 Just Run Your Code: When presenting your code to the instructors, simply run your code and showcase its functionality. Remember, they may not be overly concerned about the intricate details of your code.
 
 Emphasize Test Cases: One crucial aspect the instructors care about is your test cases. Make sure to include your test files when compiling your code to demonstrate its robustness and accuracy.
