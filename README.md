@@ -10,5 +10,5 @@
 
 **Support ME if you found this helpful!**
 
-- **Ethereum (ETH):** 0x3e448a305295efe0C974B2Ee109448660EfbDA5A
-- **Solana:** BXHbNm3obMzyc96JfgRMfqLHqytFXA4g4Qu8SncyDyQ
+- **Ethereum (ETH):** <span style="color:red">0x3e448a305295efe0C974B2Ee109448660EfbDA5A</span>
+- **Solana:** <span style="color:yellow">BXHbNm3obMzyc96JfgRMfqLHqytFXA4g4Qu8SncyDyQ</span>
