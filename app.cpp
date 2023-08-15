@@ -10,6 +10,11 @@
 
 
 #define _CRT_SECURE_NO_WARNINGS			
+// MUST DO!!!
+// Go to Debug Tab, select Debug Properties
+// "C/C++" ---> Advanced ---> "Disable Specific Warnings" type 4996
+
+// This is to prevent error while compile
 
 const int SIZE = 256;									
 List* type1 = new List;									
