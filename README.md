@@ -2,7 +2,7 @@
 
 Helping juniors in UCCD1024!
 
-------- Presentation Tips ------
+Presentation Tips 
 
 1. Just run your code and show to the lectures cuz they don't even fucking care about your code...
 2. They care about test cases! (remember to include your test files while compile to show) 
