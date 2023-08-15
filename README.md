@@ -1,12 +1,14 @@
-#Helping juniors in UCCD1024!
-##**Presentation Tips**
-Just Run Your Code: When presenting your code to the instructors, simply run your code and showcase its functionality. Remember, they may not be overly concerned about the intricate details of your code.
+# Helping juniors in UCCD1024!
 
-Emphasize Test Cases: One crucial aspect the instructors care about is your test cases. Make sure to include your test files when compiling your code to demonstrate its robustness and accuracy.
+## Presentation Tips
 
-Avoid Line-by-Line Explanation: Rather than explaining your code line by line, focus on giving an overview of its structure and key components. Highlight the overall design and how it meets the requirements.
+**1. Just run your code and show it:** Lecturers might not extensively review your code, so it's effective to demonstrate its functionality by running it.
 
-If you found this information helpful, consider supporting me!
+**2. Emphasize test cases:** Instructors value well-structured test cases. Remember to include your test files during compilation to showcase your code's reliability.
 
-Ethereum (ETH): 0x3e448a305295efe0C974B2Ee109448660EfbDA5A
-Solana (SOL): BXHbNm3obMzyc96JfgRMfqLHqytFXA4g4Qu8SncyDyQ
+**3. Avoid explaining code line by line:** Rather than going through each line, focus on explaining your code's overall structure and key elements.
+
+**Support ME if you found this helpful!**
+
+- **Ethereum (ETH):** 0x3e448a305295efe0C974B2Ee109448660EfbDA5A
+- **Solana:** BXHbNm3obMzyc96JfgRMfqLHqytFXA4g4Qu8SncyDyQ
