@@ -10,7 +10,7 @@
 
 **Support ME if you found this helpful!**
 
-- **Bitcoin(BTC):**bc1psg3hedncmnlparnqcmhmuqk66pd5zt9vm63eavkuxafl5vhh2a8q4090xt
+-**Bitcoin(BTC):**bc1psg3hedncmnlparnqcmhmuqk66pd5zt9vm63eavkuxafl5vhh2a8q4090xt
 - **Ethereum (ETH):** <span style="color:red">0x3e448a305295efe0C974B2Ee109448660EfbDA5A</span>
 - **Solana:** <span style="color:yellow">BXHbNm3obMzyc96JfgRMfqLHqytFXA4g4Qu8SncyDyQ</span>
 - **TNG WALLET:** 0149942098
