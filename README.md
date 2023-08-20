@@ -1,6 +1,4 @@
-#Helping juniors in UCCD1024!
-
-## Presentation Tips
+# Tips for UCCD1024 Presentations
 
 **1. Just run your code and show it:** Lecturers doesn't give a fuck of your code, all they care about is "Is those code running well?" (by u just demonstrate it)
 
@@ -8,11 +6,14 @@
 
 **3. Avoid explaining code line by line:** Rather than going through each line, focus on explaining your code's overall structure and key elements.
 
-**Support ME if you found this helpful!**
+If you found these tips helpful, consider supporting me:
 
--**Bitcoin(BTC): 
-**bc1psg3hedncmnlparnqcmhmuqk66pd5zt9vm63eavkuxafl5vhh2a8q4090xt
-- **Ethereum (ETH):** <span style="color:red">0x3e448a305295efe0C974B2Ee109448660EfbDA5A</span>
-- **Solana:** <span style="color:yellow">BXHbNm3obMzyc96JfgRMfqLHqytFXA4g4Qu8SncyDyQ</span>
+- **Bitcoin (BTC):** bc1psg3hedncmnlparnqcmhmuqk66pd5zt9vm63eavkuxafl5vhh2a8q4090xt
+
+- **Ethereum (ETH):** 0x3e448a305295efe0C974B2Ee109448660EfbDA5A
+
+- **Solana:** BXHbNm3obMzyc96JfgRMfqLHqytFXA4g4Qu8SncyDyQ
+
 - **TNG WALLET:** 0149942098
 
+Feel free to make any additional changes or adjustments to suit your preferences. Good luck with your UCCD1024 presentations!
